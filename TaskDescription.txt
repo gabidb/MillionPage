@@ -1,0 +1,5 @@
+A million dollar page
+
+1. Fixed layout
+2. Resizable
+3. 
