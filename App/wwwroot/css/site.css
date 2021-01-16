@@ -60,7 +60,7 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 0px;
 }
 .footer {
   position: absolute;
@@ -68,4 +68,16 @@ body {
   width: 100%;
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
+}
+.container{
+  padding: 0;
+  max-width: 100%;
+
+}
+canvas{
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  background-color: blue;
+
 }
